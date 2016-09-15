@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Wu Cheuk Kwan Carina
+=======
+Chankyu Oh
+Bartłomiej Woźniak 
+>>>>>>> 0bda89e8ec479b8ef798e6d864e4ab3c25c98837

@@ -1,2 +1,6 @@
+<<<<<<< Upstream, based on branch 'master' of https://github.com/bartekwozniak93/rcs
 Chankyu Oh
 Bartłomiej Woźniak
+=======
+Bartłomiej Woźniak.
+>>>>>>> 161642a Add name. 
